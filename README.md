@@ -1,6 +1,6 @@
 # Xe_bus
 
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
